@@ -1,3 +1,6 @@
+
+![Overview](./overview.gif)
+
 ## Prerequisites
 
 -   docker
